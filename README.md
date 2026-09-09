@@ -609,7 +609,9 @@ Install the required libraries:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy jupyter
+```
 
+---
 
 ## 19. Repository Structure
 
@@ -633,6 +635,9 @@ Seasonal_Agriculture_Performance_Analysis/
 │
 └── README.md
     └── Project documentation
+```
+
+---
 
 ## 20. Project Presentation
 
